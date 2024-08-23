@@ -1,6 +1,7 @@
 // Persistent stack example of how mmap() naturally creates a software abstraction of persistent memory.
 // Author: Terence Kelly
 //         tpkelly @ { acm.org, cs.princeton.edu, eecs.umich.edu }
+//tpkelly @ { acm.org, cs.princeton.edu, eecs.umich.edu }
 
 // Note:  Use 'truncate' to make the initial (empty) backing file,
 // whose size should be a multiple of the system page size:
